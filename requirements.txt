@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+PyPDF2
+python-docx
+Pillow
+pytesseract
+langdetect
+google-generativeai
+gTTS
+pdf2image
+PyMuPDF
