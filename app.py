@@ -124,7 +124,7 @@ UI_TRANSLATIONS = {
         "gen_help_caption": "Ask any {sector_lower}-related questions — here to help!",
         "gen_chat_placeholder": "Ask any {sector_lower} question...",
         "examples_caption": "Example questions:",
-        "enhanced_features_title": "🚀 Enhanced Features:",
+        "enhanced_features_title": "🚀 Features:",
         "features_med_1": "🚨 Emergency medical response",
         "features_med_2": "🖼️ Medical image analysis",
         "features_med_3": "🩺 Injury/disease detection",
@@ -134,7 +134,7 @@ UI_TRANSLATIONS = {
         "features_law_1": "📄 ALL document types",
         "features_law_2": "⚖️ Legal analysis",
         "features_law_3": "🔍 Comprehensive review",
-        "disclaimer_block_header": "⚠️ Enhanced AI Disclaimer:",
+        "disclaimer_block_header": "⚠️ Disclaimer:",
         "disclaimer_med": "- Medical: For emergencies, call 108/102 (India)",
         "disclaimer_law": "- Legal: Consult qualified legal professionals for important matters",
         "disclaimer_agri": "- Agricultural: Recommendations are general—consider local conditions",
@@ -176,7 +176,7 @@ UI_TRANSLATIONS = {
         "gen_help_caption": "किसी भी {sector_lower}-संबंधित प्रश्न पूछें — मदद के लिए तैयार!",
         "gen_chat_placeholder": "कोई भी {sector_lower} प्रश्न पूछें...",
         "examples_caption": "उदाहरण प्रश्न:",
-        "enhanced_features_title": "🚀 उन्नत विशेषताएँ:",
+        "enhanced_features_title": "🚀 विशेषताएँ:",
         "features_med_1": "🚨 आपातकालीन चिकित्सा प्रतिक्रिया",
         "features_med_2": "🖼️ चिकित्सा छवि विश्लेषण",
         "features_med_3": "🩺 चोट/रोग पहचान",
@@ -186,7 +186,7 @@ UI_TRANSLATIONS = {
         "features_law_1": "📄 सभी दस्तावेज़ प्रकार",
         "features_law_2": "⚖️ कानूनी विश्लेषण",
         "features_law_3": "🔍 व्यापक समीक्षा",
-        "disclaimer_block_header": "⚠️ उन्नत AI अस्वीकरण:",
+        "disclaimer_block_header": "⚠️अस्वीकरण:",
         "disclaimer_med": "- चिकित्सा: आपातस्थिति में 108/102 कॉल करें (भारत)",
         "disclaimer_law": "- कानूनी: महत्वपूर्ण मामलों में योग्य विधि विशेषज्ञ से परामर्श करें",
         "disclaimer_agri": "- कृषि: सिफारिशें सामान्य हैं—स्थानीय परिस्थितियों पर विचार करें",
@@ -228,7 +228,7 @@ UI_TRANSLATIONS = {
         "gen_help_caption": "ఏదైనా {sector_lower} సంబంధిత ప్రశ్నలు అడగండి — సహాయం కోసం సిద్ధంగా ఉన్నాము!",
         "gen_chat_placeholder": "ఏదైనా {sector_lower} ప్రశ్న అడగండి...",
         "examples_caption": "ఉదాహరణ ప్రశ్నలు:",
-        "enhanced_features_title": "🚀 అధునాతన లక్షణాలు:",
+        "enhanced_features_title": "🚀 లక్షణాలు:",
         "features_med_1": "🚨 అత్యవసర వైద్య స్పందన",
         "features_med_2": "🖼️ వైద్య చిత్రం విశ్లేషణ",
         "features_med_3": "🩺 గాయం/వ్యాధి గుర్తింపు",
@@ -238,7 +238,7 @@ UI_TRANSLATIONS = {
         "features_law_1": "📄 అన్ని పత్రాల రకాలు",
         "features_law_2": "⚖️ చట్ట విశ్లేషణ",
         "features_law_3": "🔍 సమగ్ర సమీక్ష",
-        "disclaimer_block_header": "⚠️ అధునాతన AI గమనిక:",
+        "disclaimer_block_header": "⚠️ గమనిక:",
         "disclaimer_med": "- వైద్యం: అత్యవసరానికి 108/102 కాల్ చేయండి (భారతదేశం)",
         "disclaimer_law": "- చట్టం: ముఖ్య విషయాలకు న్యాయ నిపుణులను సంప్రదించండి",
         "disclaimer_agri": "- వ్యవసాయం: సిఫారసులు సాధారణం — స్థానిక పరిస్థితులను పరిగణించండి",
@@ -290,7 +290,7 @@ UI_TRANSLATIONS = {
         "features_law_1": "📄 تمام دستاویزاتی اقسام",
         "features_law_2": "⚖️ قانونی تجزیہ",
         "features_law_3": "🔍 جامع جائزہ",
-        "disclaimer_block_header": "⚠️ جدید AI انتباہ:",
+        "disclaimer_block_header": "⚠️ انتباہ:",
         "disclaimer_med": "- طبی: ہنگامی صورت میں 108/102 پر کال کریں (بھارت)",
         "disclaimer_law": "- قانونی: اہم معاملات میں مستند قانونی ماہر سے رجوع کریں",
         "disclaimer_agri": "- زرعی: سفارشات عمومی ہیں — مقامی حالات کو مدنظر رکھیں",
@@ -332,7 +332,7 @@ UI_TRANSLATIONS = {
         "gen_help_caption": "{sector_lower} സംബന്ധമായ ഏതെങ്കിലും ചോദ്യങ്ങൾ ചോദിക്കുക — സഹായത്തിനായി തയ്യാറാണ്!",
         "gen_chat_placeholder": "ഏതെങ്കിലും {sector_lower} ചോദ്യം ചോദിക്കുക...",
         "examples_caption": "ഉദാഹരണ ചോദ്യങ്ങൾ:",
-        "enhanced_features_title": "🚀 ഉയർന്ന വിശേഷഗുണങ്ങൾ:",
+        "enhanced_features_title": "🚀 വിശേഷഗുണങ്ങൾ:",
         "features_med_1": "🚨 അടിയന്തിര മെഡിക്കൽ പ്രതികരണം",
         "features_med_2": "🖼️ മെഡിക്കൽ ചിത്ര വിശകലനം",
         "features_med_3": "🩺 പരിക്ക്/രോഗം തിരിച്ചറിയൽ",
@@ -342,7 +342,7 @@ UI_TRANSLATIONS = {
         "features_law_1": "📄 എല്ലാ രേഖാ തരം",
         "features_law_2": "⚖️ നിയമ വിശകലനം",
         "features_law_3": "🔍 സമഗ്ര അവലോകനം",
-        "disclaimer_block_header": "⚠️ ഉയർന്ന AI അറിയിപ്പ്:",
+        "disclaimer_block_header": "⚠️ അറിയിപ്പ്:",
         "disclaimer_med": "- മെഡിക്കൽ: അടിയന്തിരാവസ്ഥയിൽ 108/102 വിളിക്കൂ (ഇന്ത്യ)",
         "disclaimer_law": "- നിയമം: പ്രധാന കാര്യങ്ങൾക്ക് യോഗ്യനായ നിയമ വിദഗ്ധനോട് ചേക്കൂറുക",
         "disclaimer_agri": "- കാർഷികം: നിർദേശങ്ങൾ പൊതുവായതാണ് — പ്രാദേശിക സാഹചര്യങ്ങൾ പരിഗണിക്കുക",
@@ -367,8 +367,8 @@ def pick_ocr_code() -> str:
 # Sector-aware Color Palettes + Accessible, Colorful CSS
 # -------------------------------------------------
 PALETTES = {
-    "Law":        {"brand": "#7C3AED", "brand2": "#06B6D4", "bg1": "#EDE9FE", "bg2": "#CFFAFE"},
-    "Medical":    {"brand": "#10B981", "brand2": "#06B6D4", "bg1": "#D1FAE5", "bg2": "#CFFAFE"},
+    "Law":        {"brand": "#7C3AED", "brand2": "#75AED7", "bg1": "#EDE9FE", "bg2": "#CFFAFE"},
+    "Medical":    {"brand": "#10B981", "brand2": "#06B6D4", "bg1": "#D1FAE5", "bg2": "#60CCD5"},
     "Agriculture":{"brand": "#16A34A", "brand2": "#F59E0B", "bg1": "#DCFCE7", "bg2": "#FEF3C7"},
 }
 active_sector = st.session_state.get("selected_sector", "Law")
@@ -544,6 +544,10 @@ def get_sector_prompt(sector: str, mode: str = "summary") -> str:
 def ask_ai(document_text: str | None = None, query: str | None = None, mode: str = "summary", image_bytes: bytes | None = None) -> str:
     sector = st.session_state.selected_sector
     language = st.session_state.selected_language
+
+    # ✅ Always fall back to stored doc_text
+    if not document_text:
+        document_text = st.session_state.get("doc_text", "")
 
     if image_bytes:
         return analyze_image_with_ai(image_bytes, sector, language, query)
