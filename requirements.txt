@@ -9,3 +9,10 @@ google-generativeai
 gTTS
 pdf2image
 PyMuPDF
+os
+io
+re
+time
+html
+hashlib
+base64
