@@ -19,42 +19,7 @@ from gtts import gTTS
 # -------------------------------------------------
 import base64
 
-# -------------------------------------------------
-# 2-second splash gate (now with Base64 image encoding for reliability and
-#                        corrected size)
-# -------------------------------------------------
-import base64
 
-if "app_started" not in st.session_state:
-    st.session_state["app_started"] = False
-
-if not st.session_state["app_started"]:
-    # Function to get the Base64 string of the logo
-    def get_img_as_base64(file_path):
-        with open(file_path, "rb") as f:
-            data = f.read()
-        return base64.b64encode(data).decode()
-
-    # Define your local image file path
-    img_path = r"C:/Users/KRANTHI KUMAR/Pictures/Screenshots/logo.png"
-
-    # Get the Base64 string of the image
-    img_base64 = get_img_as_base64(img_path)
-
-    # Minimal splash — center the logo and double the size with transform
-    st.markdown(
-        f"""
-        <div style="height:85vh; display:flex; align-items:center; justify-content:center; flex-direction:column;">
-            <img src="data:image/png;base64,{img_base64}" style="transform: scale(2);"/>
-            <div style="margin-top:12px; color:#666;">Loading…</div>
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
-
-    time.sleep(2.0)  # exactly 2 seconds
-    st.session_state["app_started"] = True
-    st.rerun()
 # -------------------------------------------------
 # API / Models
 # -------------------------------------------------
@@ -1307,4 +1272,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
