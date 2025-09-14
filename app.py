@@ -88,31 +88,31 @@ SECTOR_LABELS = {
         "Law": "Law",
         "Medical": "Medical",
         "Agriculture": "Agriculture",
-        "Credilens": "Credilens"
+        "Credit": "Credilens"
     },
     "हिंदी": {
         "Law": "कानून",
         "Medical": "चिकित्सा",
         "Agriculture": "कृषि",
-        "Credilens": "क्रेडिलेंस"
+        "Credit": "क्रेडिलेंस"
     },
     "తెలుగు": {
         "Law": "చట్టం",
         "Medical": "వైద్యం",
         "Agriculture": "వ్యవసాయం",
-        "Credilens": "క్రెడిలెన్స్"
+        "Credit": "క్రెడిలెన్స్"
     },
     "اردو": {
         "Law": "قانون",
         "Medical": "طبی",
         "Agriculture": "زراعت",
-        "Credilens": "کریڈیلینس"
+        "Credit": "کریڈیلینس"
     },
     "മലയാളം": {
         "Law": "നിയമം",
         "Medical": "വൈദ്യശാസ്ത്രം",
         "Agriculture": "കൃഷി",
-        "Credilens": "ക്രെഡിലൻസ്"
+        "Credit": "ക്രെഡിലൻസ്"
     },
 }
 
@@ -1272,5 +1272,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
