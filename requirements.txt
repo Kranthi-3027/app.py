@@ -4,8 +4,6 @@ PyPDF2
 python-docx
 Pillow
 pytesseract
-pdf2image
+langdetect
 google-generativeai
 gTTS
-langdetect
-python-dateutil
