@@ -1,5 +1,5 @@
-streamlit
 python-dotenv
+streamlit
 PyPDF2
 python-docx
 Pillow
